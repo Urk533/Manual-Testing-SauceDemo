@@ -7,10 +7,11 @@ To perform manual testing on an e-commerce web application.
 https://www.saucedemo.com/
 
 ## Modules Covered
-- Login
+- Login Page
+- Inventory Page
+- Cart Page
+- Checkout Page
 - Product Page
-- Cart
-- Checkout
 
 ## Testing Types
 - Functional Testing
