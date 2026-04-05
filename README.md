@@ -38,3 +38,6 @@ All test cases were executed manually. Both positive and negative scenarios were
 
 ## 📌 Conclusion
 The application was tested across major modules, and defects were identified and documented. Overall functionality works as expected with minor improvements suggested.
+
+## 👤 Author
+Utsav Raj Kharel
