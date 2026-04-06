@@ -41,3 +41,10 @@ The application was tested across major modules, and defects were identified and
 
 ## 👤 Author
 Utsav Raj Kharel
+
+##Screenshots
+<img width="1505" height="842" alt="Login page" src="https://github.com/user-attachments/assets/a96d2a67-ed72-4fc4-a7fd-cd58bcab9ddc" />
+<img width="1920" height="971" alt="Inventory Page" src="https://github.com/user-attachments/assets/9f86da50-efe6-4290-bb90-17abaf16b5c6" />
+<img width="1920" height="988" alt="Checkout Page" src="https://github.com/user-attachments/assets/b3a65f78-5137-434a-a572-60bb27a698c4" />
+<img width="1920" height="963" alt="Cart Page" src="https://github.com/user-attachments/assets/78ae5270-e168-40e0-afb8-7e8049ccbb6d" />
+<img width="1920" height="961" alt="Order Completion Page" src="https://github.com/user-attachments/assets/95bf96f6-7976-46ab-aaa6-83436775e308" />
